@@ -61,7 +61,7 @@ ninja.data = [{
         title: 'email',
         section: 'Socials',
         handler: () => {
-          window.open("mailto:%79%6F%75@%65%78%61%6D%70%6C%65.%63%6F%6D", "_blank");
+          window.open("mailto:%6C%75%63%61%73%73%63%68%6D%69%64%74%39%38@%70%6F%6C%69.%75%66%72%6A.%62%72", "_blank");
         },
       },{
         id: 'social-github',
@@ -75,7 +75,7 @@ ninja.data = [{
         title: 'LinkedIn',
         section: 'Socials',
         handler: () => {
-          window.open("https://www.linkedin.com/in/https://www.linkedin.com/in/lucas-schmidt-ferreira-de-araujo-87226a223?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BxNzdpHhRShygzrQK5joPJQ%3D%3D", "_blank");
+          window.open("https://www.linkedin.com/in/Lucas Schmidt Ferreira de Araujo", "_blank");
         },
       },{
         id: 'social-custom_social',
